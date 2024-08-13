@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/7938e5f235a54a77b091628e8bd52e69/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7938e5f235a54a77b091628e8bd52e69
+run_name: salty-eel-453
+run_uuid: 7938e5f235a54a77b091628e8bd52e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723545385975
+status: 1
+tags: []
+user_id: rahul

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/6334334238cc48958b26e32ba5eff011/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6334334238cc48958b26e32ba5eff011
+run_name: big-bee-855
+run_uuid: 6334334238cc48958b26e32ba5eff011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723546225961
+status: 1
+tags: []
+user_id: rahul

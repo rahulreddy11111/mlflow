@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/82e38130da244394a8fe43439e4bf792/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82e38130da244394a8fe43439e4bf792
+run_name: rambunctious-asp-680
+run_uuid: 82e38130da244394a8fe43439e4bf792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723545266475
+status: 1
+tags: []
+user_id: rahul

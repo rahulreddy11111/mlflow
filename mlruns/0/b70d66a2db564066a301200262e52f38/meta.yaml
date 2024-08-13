@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/b70d66a2db564066a301200262e52f38/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b70d66a2db564066a301200262e52f38
+run_name: auspicious-gnu-890
+run_uuid: b70d66a2db564066a301200262e52f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723544993267
+status: 1
+tags: []
+user_id: rahul
