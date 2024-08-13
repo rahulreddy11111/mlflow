@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/3e1b1bbe66e14446899aa843e1c77ace/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e1b1bbe66e14446899aa843e1c77ace
+run_name: selective-duck-12
+run_uuid: 3e1b1bbe66e14446899aa843e1c77ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723549616610
+status: 1
+tags: []
+user_id: rahul
