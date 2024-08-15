@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/Downloads/mlflowexperiments-main-2/mlruns/0/72a38a09e3494b25bc193bc71bb600c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72a38a09e3494b25bc193bc71bb600c8
+run_name: gaudy-conch-183
+run_uuid: 72a38a09e3494b25bc193bc71bb600c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723642742667
+status: 1
+tags: []
+user_id: rahul
